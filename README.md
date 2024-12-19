@@ -1,1 +1,1 @@
-![KiloQubit logo](kiloqubit.png)
+![KiloQubit logo](kiloqubit-512.png)
