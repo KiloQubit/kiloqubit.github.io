@@ -1,1 +1,1 @@
-# kiloqubit.github.io
+![KiloQubit logo](kiloqubit.png)
