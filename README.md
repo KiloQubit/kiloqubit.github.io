@@ -1,4 +1,5 @@
 ![KiloQubit logo](kiloqubit-256.png)
 
-- [Threads](https://www.threads.net/@kiloqubit)
+- [Bluesky](https://bsky.app/profile/kiloqubit.com)
 - [YouTube](https://www.youtube.com/@kiloqubit)
+- [Threads](https://www.threads.net/@kiloqubit)
